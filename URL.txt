@@ -1,0 +1,10 @@
+{4 items
+name:
+"President Donald J. Trump"
+symbol:
+"PDJT"
+description:
+"This isn't a meme token. It's the first blockchain-based version of the presiden ..."
+image:
+"https://ipfs.io/ipfs/QmXH1gDhw1nrJWac7yg5My6TMHoRajhBGpKzt8eS3czehL"
+}
